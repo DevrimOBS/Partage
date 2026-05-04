@@ -1,0 +1,88 @@
+Cybersécurité – Synthèse**
+
+**Institutions et outils français**  
+- **ANSSI** : Agence nationale de la sécurité des systèmes d’information.  
+- **Prestataire d’infogérance** : Fournisseur de solutions logicielles et de services informatiques.  
+- **Parquai J3** : Gère les affaires liées au domaine de la cyber.  
+- **France Verif** : Site pour vérifier la fiabilité de sites web.  
+- **L’Éveil Cyber (Christophe Boutry)** : Média de veille sur la cybersécurité.  
+- **Trackfin** : Norme française contre le blanchiment et les transferts financiers illégaux.  
+- **NIS2** : Directive européenne visant à renforcer la cybersécurité des États membres de l’UE.  
+- **Viginum** : Service technique et opérationnel de l’État chargé de la vigilance et de la protection contre les ingérences numériques étrangères, rattaché au SGDSN, créé en 2021 pour détecter et analyser les campagnes de manipulation de l’information menées par des acteurs étrangers en ligne.
+
+**Bonnes pratiques de sécurité**  
+- Utiliser un gestionnaire de mots de passe, l’A2F (authentification à deux facteurs) et faire les mises à jour.  
+- Sauvegarde = dernier rempart pour assurer la continuité d’activité.  
+- Ne jamais payer sur des sites non sécurisés (sans HTTPS).  
+- Éviter les mots de passe personnels ou faibles.  
+- Ne pas payer de rançon en cas de ransomware.  
+
+**En cas d’incident de sécurité**  
+1. Ne pas éteindre l’ordinateur (préserver les traces).  
+2. Déconnecter du réseau et d’Internet.  
+3. Alerter immédiatement le support informatique.  
+4. Ne plus utiliser l’équipement compromis.  
+
+**Sonde de cybersécurité**  
+Capteur (boîtier ou VM) placé sur un réseau pour observer le trafic, détecter les anomalies et remonter des alertes.  
+
+**Attaque “Shoulder Surfing”**  
+Observation furtive d’un écran ou d’un clavier pour dérober des informations sensibles (souvent dans des lieux publics).  
+
+**Certifications Pentest**  
+- eJPT  
+- OSCP  
+
+**Gestion de crise**  
+- Phases émotionnelles : **Choc → Déni → Colère → Peur → Acceptation**.  
+- Facteurs humains : personnalité, expérience, fatigue, implication.  
+- Piliers :  
+  - **Organisation** (plan de situation, communication par le RSSI).  
+  - **Processus de gestion de crise.**  
+  - **Méthodologie de décision.**
+
+**Cellule de crise**  
+- Collecter et confirmer les faits.  
+- Analyser les impacts.  
+- Lister les parties prenantes.  
+- Déterminer le périmètre d’intervention.  
+
+
+**Règle des 8C (Gestion de crise)**  
+Principes clés pour piloter efficacement une réponse à incident :  
+- **Confirmation** : Vérifier les faits avant d’agir.  
+- **Coordination** : Assurer la cohésion entre les équipes.  
+- **Communication** : Informer clairement, en interne et en externe.  
+- **Cohérence** : Garder une ligne d’action logique et alignée.  
+- **Contrôle** : Suivre les actions et les résultats.  
+- **Commande** : Prendre les décisions nécessaires rapidement.  
+- **Crédibilité** : Préserver la confiance par le professionnalisme.  
+- **Confiance** : Climat indispensable à une gestion de crise efficace.  
+
+**Principe E.T.A (Posture de communication en crise)**  
+- **Empathie** : Comprendre et reconnaître les émotions des parties prenantes.  
+- **Transparence** : Communiquer honnêtement, sans dissimulation.  
+- **Action** : Montrer que des mesures concrètes sont prises.  
+
+**Piliers de la gestion de crise (vision cyber)**
+
+- **Préparation** : politiques, PRA/PCA, exercices, plans de réponse, cartographie des actifs critiques.
+- **Organisation** : rôles, responsabilités, cellule de crise, circuits de décision et de communication clairement définis.
+- **Processus** : procédures de détection, d’escalade, de confinement, d’éradication, de reprise et de retour d’expérience (RETEX).
+- **Communication** : stratégie interne/externe, messages validés, cohérents et adaptés (direction, employés, clients, presse, autorités).
+
+**RETEX = Retour d'Expérience**
+
+
+**Motivations économiques**
+Vol de propriété intellectuelle : Les États-nations espionnent les entreprises pour acquérir technologies et secrets industriels, soutenant leur économie (ex. : Chine via APT41 ciblant aéronautique et pharma).
+Avantage compétitif : Débaucher talents et infiltrer chaînes d'approvisionnement pour booster secteurs stratégiques comme semi-conducteurs ou énergie.
+Motivations technologiques
+Espionnage high-tech : Collecte de données sur R&D, IA, cybersécurité et infrastructures critiques pour combler retards technologiques.
+Sabotage ciblé : Perturber usines IIoT ou clouds pour affaiblir rivaux, avec des APT sophistiqués utilisant zero-days.
+
+Rôle des tensions géopolitiques
+Les conflits (Ukraine, Moyen-Orient, élections européennes) multiplient les attaques : Russie (GRU) cible infrastructures vitales, Iran influence via fake news, Chine espionne pour dominance tech. En 2026, +30% d'opérations étatiques liées à l'IA et géopolitique, selon Clusif et Forrester.
+
+C'est l'analyse post-crise obligatoire pour tirer les leçons d'un incident cyber et ne jamais recommencer les mêmes erreurs.
+***
